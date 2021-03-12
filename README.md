@@ -1,2 +1,2 @@
-Me chamo Raphael Padilha e comecei o curso da Trybe para ser um desenvolvedor Full Stackk.
-Durante o curso irei desenvolver vario projetos tanto em grupo quanto sozinho para me aperfeicoar nos conteudos passados pela Trybe.
+Me chamo Raphael Padilha e comecei o curso da Trybe para ser um desenvolvedor Full Stack.
+Durante o curso irei desenvolver varios projetos tanto em grupo quanto sozinho para me aperfeicoar nos conteudos passados pela Trybe.
