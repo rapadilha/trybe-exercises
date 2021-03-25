@@ -66,3 +66,38 @@ if (angulosPositivos) {
 }else {
     console.log ('erro')
 }
+
+// Exercicio 6
+
+let chessPiece = 'KinG';
+
+switch (chessPiece.toLowerCase()) {
+    case 'king':
+        console.log('King > Uma casa para qualquer lado');
+    break;    
+
+    case 'queen':
+        console.log('Queen > Todas as direções, sendo uma por vez');
+    break;
+
+    case 'bishop':
+        console.log('Bishop > Diagonais');
+    break;
+
+    case 'horse':
+        console.log('Horse > Movimento em "L" e pode pular peças');
+    break;
+
+    case 'pawn':
+        console.log('Pawn > Uma casa a frente, e duas casas na primeira rodada');
+    break;
+
+    default:
+        console.log('Error');
+    break;
+}
+
+// Exercicio 7
+
+let percent = Math.random() * 100
+console.log(percent)
