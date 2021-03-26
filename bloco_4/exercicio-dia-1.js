@@ -99,5 +99,21 @@ switch (chessPiece.toLowerCase()) {
 
 // Exercicio 7
 
-let percent = Math.random() * 100
-console.log(percent)
+let percent = Math.ceil(Math.random() * 100);
+
+if (percent >= 90 && percent <= 100) {
+    console.log('A')
+}else if (percent >= 80 && percent <= 100) {
+    console.log('B')
+}else if (percent >= 70 && percent <= 100) {
+    console.log('C')
+}else if (percent >= 60 && percent <= 100) {
+    console.log('D')
+}else if (percent >= 50 && percent <= 100) {
+    console.log('E')
+}else if (percent < 50 && percent >= 0) {
+    console.log('F')
+}else {
+    console.log('Error')
+}
+
